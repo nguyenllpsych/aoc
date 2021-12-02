@@ -1,2 +1,3 @@
-# aoc
-Advent of Code solutions
+# Advent of Code solutions
+
+Linh Nguyen - nguyenllpsych@gmail.com
